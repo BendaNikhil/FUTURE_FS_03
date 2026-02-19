@@ -1,6 +1,7 @@
 ☕ Brew Haven Café – Real Business Website Project
 🌍 Real-World Freelance Simulation | Full Stack Internship – Task 3
 
+![Uploading Screenshot (38).png…]()
 
 📌 Project Overview
 
