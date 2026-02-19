@@ -1,6 +1,8 @@
 ☕ Brew Haven Café – Real Business Website Project
 🌍 Real-World Freelance Simulation | Full Stack Internship – Task 3
 
+![Uploading Screenshot (38).png…]()
+
 📌 Project Overview
 
 This project is a real-world business website simulation built as if I were a freelance developer pitching to an actual local café.
