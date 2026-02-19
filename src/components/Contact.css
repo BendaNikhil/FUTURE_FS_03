@@ -1,0 +1,41 @@
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: var(--spacing-lg);
+    align-items: center;
+}
+
+.subtitle {
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.contact h2 span {
+    color: var(--gold);
+    font-style: italic;
+}
+
+.info-item h5 {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+    color: var(--primary);
+}
+
+.info-item p {
+    color: var(--text-muted);
+}
+
+.contact-actions {
+    margin-top: 2rem;
+}
+
+@media (max-width: 992px) {
+    .contact-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-md);
+    }
+}
